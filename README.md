@@ -9,3 +9,5 @@ nano Vagrantfile
 
 vagrant up
 ```
+
+https://www.vagrantup.com/docs
